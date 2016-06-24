@@ -51,3 +51,5 @@
     rsd release -m
     
 在浏览器中访问： http://localhost:8080 即可
+
+[静态资源缓存控制编译工具](http://www.open-open.com/lib/view/open1414742344184.html)
